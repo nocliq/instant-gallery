@@ -1,0 +1,1 @@
+A simple dynamic gallery. Each folder is a category, so just drop your images inside and you are done. No config files, no setup! You can upload multiple files by drag and drop into the browser thanks to aquantum multiple upload!
